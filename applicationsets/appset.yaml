@@ -19,7 +19,7 @@ spec:
     spec:
       project: default
       source:
-        repoURL: https://github.com/Venkat-Sudharsanam/test.git
+        repoURL: https://github.com/sree52/argo-helm.git
         targetRevision: HEAD
         path: nginxhelm
         helm:
